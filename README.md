@@ -29,10 +29,11 @@ The goal of this project is to create a single responsive web page with a header
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
-```
-
+   ```
+   
 2. Navigate to the project directory.
 ```bash
 cd your-repo-name
 ```
+
 3. Open index.html in your preferred web browser.
