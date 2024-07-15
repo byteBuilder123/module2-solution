@@ -39,4 +39,4 @@ cd module2-solution
 3. Open index.html in your preferred web browser.
 
 ## DEMO
-[Module 02 Solution](https://github.com/byteBuilder123/module2-solution)
+[Module 02 Solution](https://bytebuilder123.github.io/module2-solution/)
